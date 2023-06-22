@@ -1,4 +1,4 @@
-# pk-rtp
+# Product Price Comparison and Presentation Automation Tool
 
 ## Description
 The purpose of this code is to compare the prices of products extracted from an Excel file with those obtained from a URL. The code aims to identify discrepancies in prices for each product. If any discrepancies are found, the tool further investigates the issue based on additional attributes information.
